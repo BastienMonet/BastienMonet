@@ -7,45 +7,45 @@ my name is Bastien Monet, i'm currently a third year student at the University I
 
 ## My main project:
 
-**projet-eval-o**:
+  **projet-eval-o**:
+      
+      a digital workspace website in python flask to give and retrieve grade for the University Institute of Technology
+      
+        - design a DB schema that respect the data of a grid
+      
+        - made a small algorithm to find the final grade of a group of student based on a grid filled
+      
+        - use the ORM SQLAlchemy and connect it to a mysql
+      
+        - Create the CRUD to make a customizable grid
 
-a digital workspace website in python flask to give and retrieve grade for the University Institute of Technology
-
-  - design a DB schema that respect the data of a grid
-
-  - made a small algorithm to find the final grade of a group of student based on a grid filled
-
-  - use the ORM SQLAlchemy and connect it to a mysql
-
-  - Create the CRUD to make a customizable grid
-
-**SAE-crypto-systeme**:
-
-chess game playable from different terminal in Java
-
-  - made the classic chess game using OOP principles without external library
-
-  - made a secured communication channel using asymmetric encryption
-
-  - every terminal are connected to their thread using asynchronous programming
-
-  - made all the different instruction from registering to playing, withdrawing and quitting 
+  **SAE-crypto-systeme**:
+      
+      chess game playable from different terminal in Java
+      
+        - made the classic chess game using OOP principles without external library
+      
+        - made a secured communication channel using asymmetric encryption
+      
+        - every terminal are connected to their thread using asynchronous programming
+      
+        - made all the different instruction from registering to playing, withdrawing and quitting 
  
-**SAE3.01aDeveloppementDuneAppWeb**:
+  **SAE3.01aDeveloppementDuneAppWeb**:
 
-archeology website for scientist to store and compare DNA
+      archeology website for scientist to store and compare DNA
+      
+        - made an algorithm comparing DNA that recursively find who inherit a specie
+      
+        - made the scientist webpage that register, import and compare specie 
 
-  - made an algorithm comparing DNA that recursively find who inherit a specie
-
-  - made the scientist webpage that register, import and compare specie 
-
-**SAEjava2.03**:
-
-e-shop software for library in java 
-
-  - connected by a mariadb database using JDBC
-
-  - respect of The MVC model using javaFX 
+  **SAEjava2.03**:
+      
+      e-shop software for library in java 
+      
+        - connected by a mariadb database using JDBC
+      
+        - respect of The MVC model using javaFX 
 
 
 
