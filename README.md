@@ -2,7 +2,7 @@
 
 (i'll be working on a portfolio to show all my project inside a vm so you don't have to install anything, be there when the time come)
 
-- my name is Bastien Monet, i'm currently a third year student at the University Institute of Technology in Orléans.
+my name is Bastien Monet, i'm currently a third year student at the University Institute of Technology in Orléans.
 
 
 ## My main project:
